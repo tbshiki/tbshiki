@@ -4,6 +4,7 @@
 [![tbshiki's WordPress Activity](https://www.cardpress.us/card?username=tbshiki&badges=true)](https://www.cardpress.us/)
 
 </div>
+Ramen lover🍜
 
 <!--
 **tbshiki/tbshiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
